@@ -11,6 +11,7 @@ const employees = [
   },
 ];
 // Start coding here
-let alex;
-let alexHobbies;
-let alexAndJamesAge;
+let alex = "Alex";
+let alexHobbies = ["Cryptocurrency", "Social media"]
+let alexAndJamesAge = [25 + 40];
+console.log(alex, alexHobbies, alexAndJamesAge);
